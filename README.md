@@ -8,7 +8,7 @@
 
 > Follow us for more projects like this [Check on our website](https://usmandotdev.netlify.app/)
 
-Travel Go is an exciting project that combines the power of React Native and Google Places API and Travel Advisor API to create a captivating hybrid mobile app . In this project, you will have the opportunity to learn and explore various technologies, including:
+Travel Go is an exciting project that combines the power of React Native and Google Places API and Travel Advisor API to create a captivating hybrid mobile app. In this project, you will have the opportunity to learn and explore various technologies, including:
 
 # React Native
 

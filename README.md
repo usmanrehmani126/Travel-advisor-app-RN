@@ -28,7 +28,7 @@ By using React Native, you will gain experience in building hybrid mobile apps, 
 # UI/UX Designs
 
 ```
-Creating an appealing and user-friendly interface is crucial for a beauty product shop app. You will have the opportunity to enhance your UI/UX design skills and implement intuitive navigation, stunning visuals, and smooth animations to provide an engaging user experience.
+Creating an appealing and user-friendly interface is crucial for a Travel Advisor APP. You will have the opportunity to enhance your UI/UX design skills and implement intuitive navigation, stunning visuals, and smooth animations to provide an engaging user experience.
 ```
 
 # API Integrations
